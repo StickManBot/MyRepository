@@ -1,0 +1,3 @@
+Marks:4 5 4 2
+Age:10
+Name:Haha
